@@ -29,4 +29,5 @@ body {
   .emojis {
     display: grid;
     grid: auto / auto auto;
+    grid-gap: 20px 20px;
   }
