@@ -40,3 +40,26 @@ body {
   .icon {
     text-align: center;
   }
+
+  .emoji > h2 {
+    order: 2;
+  }
+
+  .emoji > h2 {
+    order: 2;
+  }
+
+  .emoji > .icon {
+    order: 1;
+  }
+
+  .emoji > p {
+    order: 3;
+  }
+
+  .emoji > a {
+    order: 4;
+  }
+
+
+
